@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋Oi, eu sou o Nathan, um Desenvolvedor Web Fullstack de 23 anos que ama criar soluções incríveis para a web. Em 2023, eu me tornei um desenvolvedor profissional graças ao curso intensivo da Driven Education, onde aprendi muito em pouco tempo.
 
 
